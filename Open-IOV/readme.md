@@ -2,5 +2,5 @@
 Home:
 - https://open-iov.org/index.php/Main_Page
 
-Hardware.db
+# Hardware.db
 - https://open-iov.org/index.php/GPU_Support
